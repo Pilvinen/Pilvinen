@@ -6,7 +6,7 @@ Did you ever stop and consider the stars for a moment? How the light we see in t
 
 It's similiar when you look at old photos, videos, works of art, and old buildings - light and matter captured, in a sense, of things and actions long past. Echoes from what once was.
 
-When you have a conscious thought, your subconsciousness thought of it first, you only become aware of it once it has already happened. We are living in memories.
+When you have a conscious thought, your subconsciousness thought of it first, you only became aware of it once it had already happened. We are living in memories.
 
 What is the present then, what is in the now? We can never know. It is hidden from our eyes, it is hidden from our minds and thoughts. Time is a slow moving liquid, time is space, time is distance, and time is motion. Or maybe it's just a property of perception.
 

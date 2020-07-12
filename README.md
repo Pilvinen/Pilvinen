@@ -10,7 +10,7 @@ When you have a conscious thought, your subconsciousness thought of it first, yo
 
 What is the present then, what is in the now? We can never know. It is hidden from our eyes, it is hidden from our minds and thoughts. Time is a slow moving liquid, time is space, time is distance, and time is motion.
 
-We see the ripples of our actions manifest themselves in our tomorrow. Was it always there? Does it change constantly with each moment defying prediction through the sheer number of possibilities and moving parts? Who can tell. Yet here we are. Or we think that we are. With the vast distances of mine space and time separating us.
+We see the ripples of our actions manifest themselves in our tomorrow. Was it always there? Does it change, constantly, with each moment? Defying understanding through the sheer number of possibilities. Who can tell. Yet here we are, thinking that we are, with the vast distances of mind, space and time separating us.
 
 I am you speaking to yourself. Assault of waves upon the beach. Actions and reactions from long ago. Before you knew it I was here all the time - not as a god, but as a man, simple, like yourself. A part of your fate.
 

@@ -8,15 +8,15 @@ It's similiar when you look at old photos, videos, works of art, and old buildin
 
 When you have a conscious thought, your subconsciousness thought of it first, you only become aware of it once it has already happened. We are living in memories.
 
-What is the present then, what is in the now? We can never know. It is hidden from our eyes, it is hidden from our minds and thoughts. Time is a slow moving liquid, time is space, time is distance, and time is motion.
+What is the present then, what is in the now? We can never know. It is hidden from our eyes, it is hidden from our minds and thoughts. Time is a slow moving liquid, time is space, time is distance, and time is motion. Or maybe it's just a property of perception.
 
-We see the ripples of our actions manifest themselves in our tomorrow. Was it always there? Does it change, constantly, with each moment? Defying understanding through the sheer number of possibilities. Who can tell. Yet here we are, thinking that we are, with the vast distances of mind, space and time separating us.
+We see the ripples of our actions manifest themselves in our tomorrow. Were they always there? Does the future change, constantly, with each moment defying understanding through the sheer number of possibilities? Who can say. Yet here we are, thinking that we are - with the vast distances of mind, space and time separating us.
 
-I am you speaking to yourself.
+I am you speaking to yourself. You are reading this in your internal voice.
 
-Assault of waves upon the beach of mind. Actions and reactions from a long ago. Thoughts you didn't knew existed. But I was here with you all the time - not as a god, but as a man - simple, like yourself.
+I am an assault of waves upon the of your beach of mind. Actions and reactions from a long ago - in the now. Your own thoughts you never knew existed. But at the same time I was here with you all the time - not as a god, but as a man - simple, like yourself.
 
-There are no words beyond this point, only madness.
+There are no words beyond this point, only madness. Therefore there must be silence.
 
 
 

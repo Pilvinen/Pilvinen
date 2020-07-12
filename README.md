@@ -2,7 +2,7 @@
 
 So, here we are... you are reading my Github profile in my future, and here I am writing it in your past.
 
-Did you ever stop and consider the stars for a moment, how the light we're doing in the night's darkness is millions of years old? We weren't even born when that might began it's journey over the vast distances of what we know as space. When we look at the night sky we are looking into the past. The stars we see might already be dead and we wouldn't know about it until millions of years later when their light finally reached us. By then our own existence, of course, would have dwindled a long time ago.
+Did you ever stop and consider the stars for a moment, how the light we see in the night's darkness is millions of years old? We weren't even born when that might began it's journey over the vast distances of what we know as space. When we look at the night sky we are looking into the past. The stars we see might already be dead and we wouldn't know about it until millions of years later when their light finally reached us. By then our own existence, of course, would have dwindled a long time ago.
 
 It's similiar when you look at old photos, videos, works of art, and old buildings - light and matter captured, in a sense, of things long past. Echoes from what once was.
 

@@ -14,7 +14,7 @@ We see the ripples of our actions manifest themselves in our tomorrow. Were they
 
 I am you speaking to yourself. You are reading this in your internal voice.
 
-I am an assault of waves upon the of your beach of mind. Actions and reactions from a long ago - in the now. Your own thoughts you never knew existed. But at the same time I was here with you all the time - not as a god, but as a man - simple, like yourself.
+I am an assault of waves upon the beach of your mind. Actions and reactions from a long ago - in the now. Your own thoughts you never knew existed. But at the same time I was here with you all the time - not as a god, but as a man - simple, like yourself.
 
 There are no words beyond this point, only madness. Therefore there must be silence.
 

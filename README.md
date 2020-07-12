@@ -12,9 +12,11 @@ What is the present then, what is in the now? We can never know. It is hidden fr
 
 We see the ripples of our actions manifest themselves in our tomorrow. Was it always there? Does it change, constantly, with each moment? Defying understanding through the sheer number of possibilities. Who can tell. Yet here we are, thinking that we are, with the vast distances of mind, space and time separating us.
 
-I am you speaking to yourself. Assault of waves upon the beach. Actions and reactions from long ago. Before you knew it I was here all the time - not as a god, but as a man, simple, like yourself. A part of your fate.
+I am you speaking to yourself.
 
-There are no words beyond this point.
+Assault of waves upon the beach of mind. Actions and reactions from a long ago. Thoughts you didn't knew existed. But I was here with you all the time - not as a god, but as a man - simple, like yourself.
+
+There are no words beyond this point, only madness.
 
 
 

@@ -31,7 +31,7 @@ There are no words beyond this point, only madness. Silence is our only option.
 
 ---
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Pilvinen&count_private=true&hide=stars&show_icons=true&theme=dark)
+![https://github-readme-stats.vercel.app/api?username=Pilvinen&count_private=true&hide=stars&show_icons=true&theme=dark]
 
 ---
 

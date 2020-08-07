@@ -1,12 +1,12 @@
-name: Latest YouTube videos
+name: Latest YouTube Videos
 on:
   schedule:
-    # * is a special character in YAML so you have to quote this string. Runs every 15 minutes.
-    - cron:  '*/15 * * * *'
-    workflow_dispatch:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
-  updateareadme-with-youtube:
+  update-readme-with-youtube:
     name: Update this repo's README with latest videos from YouTube
     runs-on: ubuntu-latest
     steps:
@@ -14,5 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "YOUTUBE"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?
-          channel_id=UCUYsJayNmVwIEwQn-eiHl1w"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCUYsJayNmVwIEwQn-eiHl1w"

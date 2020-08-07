@@ -6,7 +6,7 @@ To be able to understand each other we need to have a compatible medium for comm
 
 We can describe the unions, separations, transformations, and divisions of concepts and things. And we can name them. We can understand their relations, associations, and behaviors in respect to one another.
 
-However, we cannot describe or understand the fundamental existence. Everything that can be said or described is just rhetoric. From one came the many through countless of divisions. Nothing that holds true can be said about the one. Everything can be said about the many, but only in relation to one another.
+However, we cannot describe or understand fundamental existence. Everything that can be said or described is just rhetoric. From one came the many through countless of divisions. Nothing that holds true can be said about the one. Everything can be said about the many, but only in relation to one another.
 
 All such wonders that exist to our minds - yet nothing exists and nothing can be described. This is the pain of the division of the world. Do you understand?
 

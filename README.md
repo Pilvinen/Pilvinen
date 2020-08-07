@@ -23,7 +23,7 @@ There are no words beyond this point, only madness. Silence is our only option.
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-<img align="left" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=Pilvinen&show_icons=true&hide_border=true" />
+![Github stats](https://github-readme-stats.vercel.app/api?username=Pilvinen)
 
 <!--
 **Pilvinen/Pilvinen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

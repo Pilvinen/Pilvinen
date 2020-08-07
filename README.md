@@ -43,6 +43,5 @@ There are no words beyond this point, only madness. Silence is our only option.
 
 📫 Want to volunteer your help? We can't pay you, but could always use more help. You can find our contact information on our game studio's web page: [Star and Serpent](https://www.starandserpent.com).  
 
----
 
 

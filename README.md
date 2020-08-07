@@ -21,14 +21,9 @@ There are no words beyond this point, only madness. Silence is our only option.
 
 #### 📺 Latest YouTube videos
 <!-- YOUTUBE:START -->
-- [World generation for Terra, graduation work presented by Pawlost.](https://www.youtube.com/watch?v=fT_zVHTofVI)
-- [Multi-threading testing on Terra voxel engine. Ported to C# and Godot.](https://www.youtube.com/watch?v=lAZFasyDf7Y)
-- [More Rituals of the old / Terra voxel engine C# Godot testing](https://www.youtube.com/watch?v=1FehA724X6E)
-- [Testing initial C# + Godot game engine port of our engine.](https://www.youtube.com/watch?v=zpwBghca-2I)
-- [Barrel distortion vs. linear projection FOV perspective fix](https://www.youtube.com/watch?v=eu2LWjYCTik)
 <!-- YOUTUBE:END -->
 
-<img align="left" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=Pilvinen&show_icons=true&hide_border=true /">
+<img align="left" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=Pilvinen&show_icons=true&hide_border=true" />
 
 <!--
 **Pilvinen/Pilvinen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

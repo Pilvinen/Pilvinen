@@ -35,27 +35,14 @@ There are no words beyond this point, only madness. Silence is our only option.
 
 ---
 
-I’m currently working on ![Rituals of the old](https://www.ritualsoftheold.com) voxel game.
+![Logo](https://www.ritualsoftheold.com/images/RItuals_of_the_old_logo_with_vines.webp)
 
-Here's our open source voxel engine ![demo](https://github.com/starandserpent/Voxel-demo).
+🤔 I’m currently working on [Rituals of the old](https://www.ritualsoftheold.com) voxel game and it's related technologies. Check out our open source C# voxel engine [demo](https://github.com/starandserpent/Voxel-demo) for Godot.
+
+---
+
+📫 Want to volunteer your help (we can't pay you)? You can find our contact information on our game studio's web page: [Star and Serpent](https://www.starandserpent.com).  
 
 ---
 
-📫 Want to volunteer your help (we can't pay you)? You can find our contact information on our game studio's web page: ![Star and Serpent](https://www.starandserpent.com).  
-
----
-<!--
-**Pilvinen/Pilvinen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 

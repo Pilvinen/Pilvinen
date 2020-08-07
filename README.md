@@ -19,13 +19,8 @@ I am an assault of waves upon the beach of your mind. Actions and reactions from
 There are no words beyond this point, only madness. Silence is our only option.
 
 
-#### [youtube] Latest YouTube videos
+#### 📺 Latest YouTube videos
 <!-- YOUTUBE:START -->
-- [World generation for Terra, graduation work presented by Pawlost.](https://www.youtube.com/watch?v=fT_zVHTofVI)
-- [Multi-threading testing on Terra voxel engine. Ported to C# and Godot.](https://www.youtube.com/watch?v=lAZFasyDf7Y)
-- [More Rituals of the old / Terra voxel engine C# Godot testing](https://www.youtube.com/watch?v=1FehA724X6E)
-- [Testing initial C# + Godot game engine port of our engine.](https://www.youtube.com/watch?v=zpwBghca-2I)
-- [Barrel distortion vs. linear projection FOV perspective fix](https://www.youtube.com/watch?v=eu2LWjYCTik)
 <!-- YOUTUBE:END -->
 
 <!--
@@ -43,4 +38,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[youtube]: https://youtube.com/codeSTACKr

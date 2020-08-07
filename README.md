@@ -4,7 +4,7 @@ So, here we are... you are reading my Github profile in my future, and here I am
 
 To be able to understand each other we need to have a compatible medium for communication and similar experiences of the things we are trying to describe.
 
-We can describe the unions, separations, transformations, and divisions of concepts and things, and we can name them. We can understand their relations, associations, and behaviors in respect to one another.
+We can describe the unions, separations, transformations, and divisions of concepts and things. And we can name them. We can understand their relations, associations, and behaviors in respect to one another.
 
 However, we cannot describe or understand the fundamental existence. Everything that can be said or described is just rhetoric. From one came the many through countless of divisions. Nothing can be said about the one that holds true. Everything can be said about the many, but only in relation to one another.
 

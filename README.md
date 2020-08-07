@@ -39,6 +39,8 @@ There are no words beyond this point, only madness. Silence is our only option.
 
 🤔 I’m currently working on [Rituals of the old](https://www.ritualsoftheold.com) voxel game and it's related technologies. Check out our open source C# voxel engine [demo](https://github.com/starandserpent/Voxel-demo) for Godot.
 
+*Rituals of the old is an upcoming PC title from an independent Finnish game studio Star and Serpent for Linux, Mac and Windows. Rituals of the old is a multiplayer sandbox RPG voxel game of crafting, building, survival, and adventure in an open random generated world.*
+
 📫 Want to volunteer your help? We can't pay you, but could always use more help. You can find our contact information on our game studio's web page: [Star and Serpent](https://www.starandserpent.com).  
 
 ---

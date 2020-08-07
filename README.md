@@ -35,7 +35,7 @@ There are no words beyond this point, only madness. Silence is our only option.
 
 ---
 
-![Logo](https://www.ritualsoftheold.com/images/RItuals_of_the_old_logo_with_vines.webp)
+![Logo](https://www.ritualsoftheold.com/images/RItuals_of_the_old_logo_with_vines.png)
 
 🤔 I’m currently working on [Rituals of the old](https://www.ritualsoftheold.com) voxel game and it's related technologies. Check out our open source C# voxel engine [demo](https://github.com/starandserpent/Voxel-demo) for Godot.
 

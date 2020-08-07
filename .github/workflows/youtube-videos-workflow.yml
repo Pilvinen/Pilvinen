@@ -1,4 +1,3 @@
-# Workflow for updating latest YouTube Videos.
 name: Latest YouTube Videos
 on:
   schedule:

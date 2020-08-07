@@ -2,15 +2,13 @@
 
 So, here we are... you are reading my Github profile in my future, and here I am writing it in your past.
 
-Did you know the light we see in the night's darkness is millions of years old? We weren't even born when that light began it's journey across the vast distances of space. When we look at the night sky we are looking into the past.
+To be able to understand each other we need to have a compatible medium for communication and similar experiences of the things we are trying to describe.
 
-In the same manner everything around us is just echoes in time - old photos, videos, buildings, works of art - light and matter captured, in a sense, of things and actions long past.
+We can describe the unions, separations, transformations, and divisions of concepts and things, and we can name them. We can understand their relations, associations, and behaviors in respect to one another.
 
-When you have a conscious thought your subconsciousness thought of it first and you only became aware of it once it had already happened. Living memories, or living in memories?
+However, we cannot describe or understand the fundamental existence. Everything that can be said or described is just rhetoric. From one came the many through countless of divisions. Nothing can be said about the one that holds true. Everything can be said about the many, but only in relation to one another.
 
-What is the present, what is in the now? We can never know for certain. It is hidden from our eyes. It is hidden from our minds and thoughts. Time is a slow moving liquid, time is space, time is distance, and time is motion - or maybe it's just a property of perception.
-
-We see the ripples of our actions manifest themselves in our tomorrows. Were they always there? Is the future constant, or constantly in motion? Who can say.
+All such wonders that exist to our minds - yet nothing exists and nothing can be described. This is the pain of the division of the world. Do you understand?
 
 There are no words beyond this point. Silence is our only option.
 

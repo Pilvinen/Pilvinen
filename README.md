@@ -8,7 +8,7 @@ We can describe the unions, separations, transformations, and divisions of conce
 
 However, we cannot describe or understand fundamental existence. Everything that can be said or described is just rhetoric. From one came the many through countless of divisions. Nothing that holds true can be said about the one. Everything can be said about the many, but only in relation to one another.
 
-All such wonders that exist to our minds - yet nothing exists and nothing can be described. This is the pain of the division of the world. Do you understand?
+All such wonders that exist to our minds - yet nothing exists and nothing can be described. This is the pain of the division of the world.
 
 There are no words beyond this point. Silence is our only option.
 
@@ -18,13 +18,9 @@ There are no words beyond this point. Silence is our only option.
 
 ---
 
-![Logo](https://www.ritualsoftheold.com/images/RItuals_of_the_old_logo_with_vines.png)
+🤔 I’m currently working on [Puny Demigods](https://www.punydemigods.com).
 
-🤔 I’m currently working on [Rituals of the old](https://www.ritualsoftheold.com) voxel game and it's related technologies. Check out our open source C# voxel engine [demo](https://github.com/starandserpent/Voxel-demo) for Godot.
-
-*Rituals of the old is an upcoming PC title from an independent Finnish game studio Star and Serpent for Linux, Mac and Windows. Rituals of the old is a multiplayer sandbox RPG voxel game of crafting, building, survival, and adventure in an open random generated world.*
-
-📫 Want to volunteer your help? We can't pay you, but could always use more help. You can find our contact information on our game studio's web page: [Star and Serpent](https://www.starandserpent.com).  
+📫 Want to volunteer your help? We can't pay you, but we could always use more help. You can find our contact information on our game studio's web page: [Star and Serpent](https://www.starandserpent.com).  
 
 
 

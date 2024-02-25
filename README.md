@@ -1,3 +1,5 @@
+[Suomeksi, kiitos](README_fi.md)
+
 # Greetings and good health
 
 So, here we are... you are reading my Github profile in my future, and here I am writing it in your past.

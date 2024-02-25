@@ -1,6 +1,6 @@
 [In English please](https://github.com/Pilvinen)
 
-# Greetings and good health
+# Tervehdys
 Niinpä, tässä me olemme... sinä luet Github-profiiliania tulevaisuudessani, ja tässä minä kirjoitan sitä sinun menneisyydessäsi.
 
 Jotta voisimme ymmärtää toisiamme, meidän on löydettävä yhteensopiva kommunikaatiomuoto ja samankaltaisia kokemuksia niistä asioista, joita yritämme kuvailla.

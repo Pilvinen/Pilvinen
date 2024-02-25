@@ -28,10 +28,13 @@ If you arrived here because you're mainly interested in our ***game studio***, y
 
 # Cyberstalkers, welcome
 
-If you arrived here because you Googled my name - first of all, thank you, I'm flattered about the attention, you're awesome - you might also be interested in my personal blog where I write about programming and game development (very infrequently when I get inspired by something): [https://www.pilvimaa.fi/](https://www.pilvimaa.fi/).
+If you arrived here because you Googled my name, first of all, thank you, I'm flattered about the attention, you're awesome. You might also be interested in my personal blog where I write about programming and game development (very infrequently when I get inspired by something): [https://www.pilvimaa.fi/](https://www.pilvimaa.fi/).
 
 # Reaching out to me personally
 
 If you want to reach out and chat with me, the best way to reach me is through our game studio's Discord chat server: [https://discord.starandserpent.com/](https://discord.starandserpent.com/). I'm usually hanging out there and I'm always happy to chat with people who are interested in game development, programming, or just want to chat about life in general.
 
 Don't be a stranger.
+
+# Reaching out professionally
+You can find our game studio's email address on our game studio's web page: [https://www.starandserpent.com/](https://www.starandserpent.com/). You can use that to reach out to me if you have something professional to discuss.

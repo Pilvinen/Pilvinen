@@ -14,7 +14,7 @@ There are no words beyond this point. Silence is our only option.
 
 ---
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Pilvinen&count_private=true&hide=stars&show_icons=true&theme=dark)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Pilvinen&count_private=true&include_all_commits=true&hide=stars&show_icons=true&theme=dark)
 
 ---
 

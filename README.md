@@ -18,9 +18,20 @@ There are no words beyond this point. Silence is our only option.
 
 ---
 
-🤔 I’m currently working on **The Ballad of the Lost Bureaucrat**.
+🤔 I’m currently working on [The Ballad of the Lost Bureaucrat](https://www.theballadofthelostbureaucrat.com/) RPG shoot'emup hybrid PC game. Click the link to check out our modest page for the game.
 
-📫 Want to volunteer your help? We can't pay you, but we could always use more help. You can find our contact information on our game studio's web page: [Star and Serpent](https://www.starandserpent.com).  
+---
 
+This is my **personal** Github page.
 
+If you arrived here because you're mainly interested in our ***game studio***, you can find more information about our games and our studio on our web page: [https://www.starandserpent.com)](https://www.starandserpent.com) and you can find the **Star and Serpent Github** page here: [https://github.com/starandserpent](https://github.com/starandserpent).
 
+---
+
+If you arrived here because you Googled my name - first of all, thank you, I'm flattered about the attention, you're awesome - you might also be interested in my personal blog where I write about programming and game development (very infrequently when I get inspired by something): [https://www.pilvimaa.fi](https://www.pilvimaa.fi).
+
+---
+
+If you want to reach out and chat with me, the best way to reach me is through our game studio's Discord chat server: [https://discord.starandserpent.com/](https://discord.starandserpent.com/). I'm usually hanging out there and I'm always happy to chat with people who are interested in game development, programming, or just want to chat about life in general.
+
+Don't be a stranger.

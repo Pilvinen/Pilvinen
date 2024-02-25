@@ -1,4 +1,4 @@
-[In English please](https://github.com/Pilvinen)
+[In English please](https://github.com/Pilvinen) :flag-us:
 
 # Tervehdys
 Niinpä, tässä me olemme... sinä luet Github-profiiliania tulevaisuudessani, ja tässä minä kirjoitan sitä sinun menneisyydessäsi.

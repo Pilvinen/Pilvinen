@@ -25,7 +25,7 @@ Tästä eteenpäin ei ole sanoja. Hiljaisuus on ainoa vaihtoehtomme.
 
 Tämä on minun **henkilökohtainen** Github-sivu.
 
-Jos saavuit tänne, koska olet pääasiassa kiinnostunut ***pelistudiostamme***, löydät lisätietoja peleistämme ja studiostamme verkkosivuiltamme: [https://www.starandserpent.com/fi/](https://www.starandserpent.com/) ja löydät **Star and Serpent Github** sivun täältä: [https://github.com/starandserpent/](https://github.com/starandserpent/)
+Jos saavuit tänne, koska olet pääasiassa kiinnostunut ***pelistudiostamme***, löydät lisätietoja peleistämme ja studiostamme verkkosivuiltamme: [https://www.starandserpent.com/fi/](https://www.starandserpent.com/fi/) ja löydät **Star and Serpent Github** sivun täältä: [https://github.com/starandserpent/](https://github.com/starandserpent/)
 
 # Verkkoahdistelijat, tervetuloa
 

@@ -1,4 +1,4 @@
-[Suomeksi, kiitos](README_fi.md) :flag-fi:
+[Suomeksi, kiitos](README_fi.md) 🇫🇮
 
 # Greetings and good health
 

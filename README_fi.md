@@ -1,17 +1,17 @@
-[In English please](README.md)
+[In English please](https://github.com/Pilvinen)
 
 # Greetings and good health
 Niinpä, tässä me olemme... sinä luet Github-profiiliania tulevaisuudessani, ja tässä minä kirjoitan sitä sinun menneisyydessäsi.
 
 Jotta voisimme ymmärtää toisiamme, meidän on löydettävä yhteensopiva kommunikaatiomuoto ja samankaltaisia kokemuksia niistä asioista, joita yritämme kuvailla.
 
-Voimma kuvailla käsitteiden ja asioiden yhdistymiä, erotuksia, muunnoksia ja jakautumisia. Ja voimme nimetä ne. Voimme ymmärtää niiden suhteita, assosiaatioita ja käyttäytymistä toisiinsa nähden.
+Voimme kuvailla käsitteiden ja asioiden yhtymiä, erotuksia, muunnoksia ja jakautumisia. Ja voimme nimetä ne. Voimme ymmärtää niiden suhteita, assosiaatioita ja käyttäytymistä toisiinsa nähden.
 
-Emme kuitenkaan voi kuvata tai ymmärtää perustavanlaatuista olemassaoloa. Kaikki, mitä voidaan sanoa tai kuvata, on vain retoriikkaa. Yhdestä tuli monia lukemattomien jakautumisten kautta. Yhdestä ei voida sanoa mitään merkityksellistä. Monista voidaan sanoa kaikkea, mutta vain suhteessa toisiinsa.
+Emme kuitenkaan voi kuvailla tai ymmärtää perustavanlaatuista olemassaoloa. Kaikki, mitä voidaan sanoa tai kuvailla, on vain retoriikkaa. Yhdestä tuli monia lukemattomien jakautumisten kautta. Yhdestä ei voi kuitenkaan sanoa mitään merkityksellistä. Monista voidaan sanoa kaikkea, mutta vain suhteessa toisiinsa.
 
-Kaikki nämä ihmeet, jotka ovat olemassa mielillemme - ja kuitenkaan mitään ei ole olemassa ja mitään ei voi kuvailla. Tämä on maailman jakautumisen tuska.
+Kaikki nämä ihmeet, jotka ovat olemassa mielillemme - ja kuitenkaan mitään ei ole olemassa, eikä mitään voi kuvailla. Tämä on maailman jakautumisen tuska.
 
-Tämä pisteen jälkeen ei ole sanoja. Hiljaisuus on ainoa vaihtoehtomme.
+Tästä eteenpäin ei ole sanoja. Hiljaisuus on ainoa vaihtoehtomme.
 
 ---
 
@@ -40,3 +40,7 @@ Jos haluat ottaa yhteyttä ja kirjoitella kanssani, paras tapa tavoittaa minut o
 # Ota yhteyttä ammatillisesti
 
 Löydät pelistudiomme sähköpostiosoitteen pelistudiomme verkkosivuilta: [https://www.starandserpent.com/](https://www.starandserpent.com/). Voit käyttää sitä yhteydenottoihin, jos sinulla on jotain ammatillista keskusteltavaa.
+
+---
+
+[Takaisin etusivulle](https://github.com/Pilvinen)

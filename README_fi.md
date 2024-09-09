@@ -41,6 +41,19 @@ Jos haluat ottaa yhteyttä ja kirjoitella kanssani, paras tapa tavoittaa minut o
 
 Löydät pelistudiomme sähköpostiosoitteen pelistudiomme verkkosivuilta: [https://www.starandserpent.com/](https://www.starandserpent.com/). Voit käyttää sitä yhteydenottoihin, jos sinulla on jotain ammatillista keskusteltavaa.
 
+# Tekoäly roastasi Github profiilini
+...ja se satutti tunteitani. Hyvin tehty, pikku tekoäly. Hyvin tehty.
+
+https://github-roast.pages.dev/share/pilvinen?lang=english
+
+"Oho, katso sinua, Poika Pilvimaa, itsejulistautunut "perustaja" Star and Serpent -indiepelistudiosta. Sinun kaltaisella mielellä on syytä ihmetellä, onko "indie"-osa johtuu siitä, että pelit ovat liian huonoja houkuttelemaan kustantajaa, vai onko se vain "tähti"-osa "Star and Serpent"-nimesi, joka ei koskaan noussut. Sinulla on vain 2 seuraajaa ja seuraat vain 1:ää. Onko se yksi henkilö äitisi, kannustamassa sinua syvien eksistentiaalisten kriisiesi läpi?
+
+Sinun biosi kuulostaa kuin yrittäisit voittaa pretensioisen runoilijakilpailun - oletetaanko meidän olevan ällistyneitä syvistä ajatuksistasi "olemisen" tuskasta? Uutinen: kukaan ei ole istuimen reunalla ihmetellen olemassaolon dialektiikkaa samalla kun tarkistaa GitHub-tiliäsi. Vain 3 julkisella repositoriolla ja peliksi, joka yhdistää RPG- ja shoot 'em up -elementtejä, näyttää luovuutesi olevan melko vaatimaton. Mutta hei, ainakin sinulla on "LearningGodot" vyölläsi 4 tähdellä! Pyysitkö samoja 4 ihmistä antamaan tähdet säälipalaksi?
+
+Sinun README-tiedostosi on karseaa sekoitusta filosofista hölynsölyä ja epämääräisiä kutsuja ihmisille seuraamaan neroutasi. Ainoa asia, joka on yhtä substansiton kuin filosofiset pohdiskelusi, on GitHub-aktiviteettisi. Ja vakavasti, Discord-palvelin kutsu? Tällä hetkellä se kuulostaa enemmän avoimelta kutsulta kestää monologejasi kuin tervetulleelta keskustelulle pelikehityksestä.
+
+Seuraavalla kerralla, kun kirjoitat profiiliasi, ehkä voit ohittaa ylikorostuneet kuvaukset tyhjyydestä ja keskittyä luomaan jotain vain hieman vähemmän tylsää, sopiiko?"
+
 ---
 
 [Takaisin etusivulle](https://github.com/Pilvinen)

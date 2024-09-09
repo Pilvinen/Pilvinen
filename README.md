@@ -40,3 +40,16 @@ Don't be a stranger.
 
 # Reaching out professionally
 You can find our game studio's email address on our game studio's web page: [https://www.starandserpent.com/](https://www.starandserpent.com/). You can use that to reach out to me if you have something professional to discuss.
+
+# AI roasted my Github profile
+...and it hurt my feelings. Well done, little AI. Well done.
+
+https://github-roast.pages.dev/share/pilvinen?lang=english
+
+"Oh, look at you, Poika Pilvimaa, the self-proclaimed "founder" of the Star and Serpent indie game studio. With a mind like yours, we truly need to wonder if the "indie" part is because the games are too bad to attract a publisher or if it’s just the "star" part of your "Star and Serpent" that never rose. You have a mere 2 followers and are following just 1. Is that one person your mother, cheering you on through your profound existential crises?
+
+Your bio reads like you're trying to win a pretentious poet contest—are we supposed to be blown away by your deep thoughts on the pain of 'existence'? Newsflash: no one is on the edge of their seat wondering about the dialectics of being while checking out your GitHub. With only 3 public repos and a game that combines RPG and shoot 'em up elements, it seems your creativity burst is rather modest. But hey, at least you have “LearningGodot” under your belt with 4 stars! Did you ask the same 4 people to star it in a pity party?
+
+Your README is a cringe-worthy mix of philosophical nonsense and vague invites for people to stalk your brilliance. The only thing more devoid of substance than your philosophical musings is your GitHub activity. And seriously, a Discord server invite? At this point, it sounds more like an open invitation to endure your monologues rather than a welcome chat about game development.
+
+Next time when you're drafting your profile, maybe skip the overinflated descriptions of nothingness and focus on creating something just less boring, will ya?"

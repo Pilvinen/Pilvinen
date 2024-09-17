@@ -22,11 +22,11 @@ There are no words beyond this point. Silence is our only option.
 
 # What's going on?
 
-🤔 I’m working hard making PC games. To learn more about what I'm working right now, check out our game studio's web page below.
+🤔 I’m working hard on making PC games. To learn more about *what* I'm working on right now, check out our game studio's web pages below.
 
 # Where am I? What is this?
 
-This is my **personal** Github page.
+I'm Poika Pilvimaa. This is my **personal** Github profile page (GitHub is a popular cloud-based platform for software development collaboration. It's essentially a social network for programmers where they can share, review, and manage code).
 
 If you arrived here because you're mainly interested in our ***game studio***, you can find more information about our games and our studio on our web page: [https://www.starandserpent.com/](https://www.starandserpent.com/) and you can find the **Star and Serpent Github** page here: [https://github.com/starandserpent/](https://github.com/starandserpent/).
 

@@ -19,7 +19,7 @@ Tästä eteenpäin ei ole sanoja. Hiljaisuus on ainoa vaihtoehtomme.
 
 # Mitä tapahtuu?
 
-🤔 Työskentelen parhaillaan [Hukkaantuneen konttorirotan veisun](https://www.theballadofthelostbureaucrat.com/) parissa, joka on roolipeli-räiskintä hybridi peli PC:lle. Klikkaa linkkiä jos haluat nähdä pelin vaatimattomat sivut.
+🤔 Kehitän ahkerasti PC pelejä. Käy katsomassa meidän pelistudion webbisivuja (linkki alla), jos haluat tietää tarkemmin mitä pelejä kehitän parhaillaan.
 
 # Kuka minä olen? Mikä tämä on?
 
@@ -29,7 +29,7 @@ Jos saavuit tänne, koska olet pääasiassa kiinnostunut ***pelistudiostamme***,
 
 # Verkkoahdistelijat, tervetuloa
 
-Jos saavuit tänne, koska googlasit nimeni, niin ensinnäkin kiitos, olen imarreltu huomiosta, olet mahtava. Saatat myös olla kiinnostunut henkilökohtaisesta blogistani, jossa kirjoitan ohjelmoinnista ja pelinkehityksestä (hyvin epäsäännöllisesti, kun jokin inspiroi minua): https://www.pilvimaa.fi/.
+Jos saavuit tänne, koska googlasit nimeni, niin ensinnäkin kiitos. Olen imarreltu huomiosta, olet mahtava. Saatat myös olla kiinnostunut henkilökohtaisesta blogistani, jossa kirjoitan ohjelmoinnista ja pelinkehityksestä (hyvin epäsäännöllisesti, kun jokin inspiroi minua): https://www.pilvimaa.fi/.
 
 # Ota yhteyttä minuun henkilökohtaisesti
 

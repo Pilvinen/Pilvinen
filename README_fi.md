@@ -23,9 +23,9 @@ Tästä eteenpäin ei ole sanoja. Hiljaisuus on ainoa vaihtoehtomme.
 
 # Kuka minä olen? Mikä tämä on?
 
-Tämä on minun **henkilökohtainen** Github-sivu.
+Olen Poika Pilvimaa. Tämä on minun **henkilökohtainen** Github profiili sivu (Github on suosittu pilvi-pohjainen alusta ohjelmistokehitysyhteistyöhön. Se on periaatteessa sosiaaliverkosto ohjelmoijille, jossa he voivat jakaa, tarkastella, ja käsitellä koodia).
 
-Jos saavuit tänne, koska olet pääasiassa kiinnostunut ***pelistudiostamme***, löydät lisätietoja peleistämme ja studiostamme verkkosivuiltamme: [https://www.starandserpent.com/fi/](https://www.starandserpent.com/fi/) ja löydät **Star and Serpent Github** sivun täältä: [https://github.com/starandserpent/](https://github.com/starandserpent/)
+Jos saavuit tänne, koska olet pääasiassa kiinnostunut ***pelistudiostamme***, löydät lisätietoja peleistämme ja studiostamme verkkosivuiltamme: [https://www.starandserpent.com/fi/](https://www.starandserpent.com/fi/) ja löydät **Tähti ja Käärme Github** sivun täältä: [https://github.com/starandserpent/](https://github.com/starandserpent/)
 
 # Verkkoahdistelijat, tervetuloa
 

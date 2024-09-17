@@ -18,9 +18,11 @@ There are no words beyond this point. Silence is our only option.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Pilvinen&count_private=true&hide=stars&show_icons=true&theme=dark)
 
+[![wakatime](https://wakatime.com/badge/user/f255368e-4112-40f9-902f-ac79d0ba873d.svg)](https://wakatime.com/@f255368e-4112-40f9-902f-ac79d0ba873d)
+
 # What's going on?
 
-🤔 I’m currently working on [The Ballad of the Lost Bureaucrat](https://www.theballadofthelostbureaucrat.com/) RPG shoot'emup hybrid PC game. Click the link to check out our modest page for the game.
+🤔 I’m working hard making PC games. To learn more about what I'm working right now, check out our game studio's web page below.
 
 # Where am I? What is this?
 

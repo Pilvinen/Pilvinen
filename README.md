@@ -17,6 +17,8 @@ There are no words beyond this point. Silence is our only option.
 
 ---
 
+# (The stats may be wildly inaccurate due to technical limitations)
+
 ![Github stats](https://raw.githubusercontent.com/Pilvinen/GithubStats/master/generated/overview.svg#gh-dark-mode-only)
 
 ![Github stats](https://raw.githubusercontent.com/Pilvinen/GithubStats/master/generated/languages.svg#gh-dark-mode-only)

@@ -17,6 +17,8 @@ Tästä eteenpäin ei ole sanoja. Hiljaisuus on ainoa vaihtoehtomme.
 
 ---
 
+# (Tilastot saattavat olla villin epätarkkoja teknisten rajoitusten vuoksi)
+
 ![Github stats](https://raw.githubusercontent.com/Pilvinen/GithubStats/master/generated/overview.svg#gh-dark-mode-only)
 
 ![Github stats](https://raw.githubusercontent.com/Pilvinen/GithubStats/master/generated/languages.svg#gh-dark-mode-only)

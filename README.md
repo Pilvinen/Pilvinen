@@ -13,7 +13,8 @@ However, we cannot describe or understand fundamental existence. Everything that
 All such wonders that exist to our minds - yet nothing exists and nothing can be described. This is the pain of the division of the world.
 
 There are no words beyond this point. Silence is our only option.
-
+---
+![Pilvinen](https://github.com/user-attachments/assets/94cf91ae-8c8c-45a6-8334-48802bbf401e)
 ---
 
 ![Github stats](https://raw.githubusercontent.com/Pilvinen/GithubStats/master/generated/overview.svg#gh-dark-mode-only)

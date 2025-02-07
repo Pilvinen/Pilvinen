@@ -2,6 +2,8 @@
 
 # Greetings and good health
 
+![Pilvinen](https://github.com/user-attachments/assets/1d4705bc-6a17-4044-942f-13e47b1f2c90)
+
 So, here we are... you are reading my Github profile in my future, and here I am writing it in your past.
 
 To be able to understand each other we need to have a compatible medium for communication and similar experiences of the things we are trying to describe.
@@ -13,8 +15,7 @@ However, we cannot describe or understand fundamental existence. Everything that
 All such wonders that exist to our minds - yet nothing exists and nothing can be described. This is the pain of the division of the world.
 
 There are no words beyond this point. Silence is our only option.
----
-![Pilvinen](https://github.com/user-attachments/assets/94cf91ae-8c8c-45a6-8334-48802bbf401e)
+
 ---
 
 ![Github stats](https://raw.githubusercontent.com/Pilvinen/GithubStats/master/generated/overview.svg#gh-dark-mode-only)

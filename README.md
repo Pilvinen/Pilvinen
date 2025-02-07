@@ -25,6 +25,9 @@ There are no words beyond this point. Silence is our only option.
 
 [![wakatime](https://wakatime.com/badge/user/f255368e-4112-40f9-902f-ac79d0ba873d.svg)](https://wakatime.com/@f255368e-4112-40f9-902f-ac79d0ba873d)
 
+# A proud moment in dysfunctonal workaholic's life
+![I won in life](https://github.com/user-attachments/assets/f52d1dc0-d2b4-4592-861e-d52ee0bc1795)
+
 # What's going on?
 
 🤔 I’m working hard on making PC games. To learn more about *what* I'm working on right now, check out our game studio's web pages below.

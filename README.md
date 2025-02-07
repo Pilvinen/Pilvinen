@@ -1,8 +1,7 @@
 [Suomeksi, kiitos](README_fi.md) 🇫🇮
 
 # Greetings and good health
-
-![kuva](https://github.com/user-attachments/assets/6567a96b-b779-413f-936b-b94faa02a6a2 | width=200 )
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://github.com/user-attachments/assets/6567a96b-b779-413f-936b-b94faa02a6a2" width="300" height="300" />
 
 So, here we are... you are reading my Github profile in my future, and here I am writing it in your past.
 

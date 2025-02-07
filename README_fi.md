@@ -23,6 +23,9 @@ Tästä eteenpäin ei ole sanoja. Hiljaisuus on ainoa vaihtoehtomme.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Pilvinen&count_private=true&hide=stars&show_icons=true&theme=dark)
 
+# Ylpeä hetki dysfunktionaalisen työhullun elämässä
+![Voitin  elämässä](https://github.com/user-attachments/assets/f52d1dc0-d2b4-4592-861e-d52ee0bc1795)
+
 # Mitä tapahtuu?
 
 🤔 Kehitän ahkerasti PC pelejä. Käy katsomassa meidän pelistudion webbisivuja (linkki alla), jos haluat tietää tarkemmin mitä pelejä kehitän parhaillaan.

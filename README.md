@@ -2,7 +2,7 @@
 
 # Greetings and good health
 
-![Pilvinen](https://github.com/user-attachments/assets/1d4705bc-6a17-4044-942f-13e47b1f2c90)
+![kuva](https://github.com/user-attachments/assets/6567a96b-b779-413f-936b-b94faa02a6a2 | width=200 )
 
 So, here we are... you are reading my Github profile in my future, and here I am writing it in your past.
 

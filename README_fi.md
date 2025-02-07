@@ -1,6 +1,8 @@
 [In English please](https://github.com/Pilvinen) :uk:
 
 # Tervehdys
+<img src="https://github.com/user-attachments/assets/6567a96b-b779-413f-936b-b94faa02a6a2" width="400" height="400" />
+
 Niinpä, tässä me olemme... sinä luet Github-profiiliania tulevaisuudessani, ja tässä minä kirjoitan sitä sinun menneisyydessäsi.
 
 Jotta voisimme ymmärtää toisiamme, meidän on löydettävä yhteensopiva kommunikaatiomuoto ja samankaltaisia kokemuksia niistä asioista, joita yritämme kuvailla.

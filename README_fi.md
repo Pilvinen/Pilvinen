@@ -15,9 +15,9 @@ Tästä eteenpäin ei ole sanoja. Hiljaisuus on ainoa vaihtoehtomme.
 
 ---
 
-![Github stats](https://raw.githubusercontent.com/Pilvinen/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Github stats](https://raw.githubusercontent.com/Pilvinen/GithubStats/master/generated/overview.svg#gh-dark-mode-only)
 
-![Github stats](https://raw.githubusercontent.com/Pilvinen/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Github stats](https://raw.githubusercontent.com/Pilvinen/GithubStats/master/generated/languages.svg#gh-dark-mode-only)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Pilvinen&count_private=true&hide=stars&show_icons=true&theme=dark)
 

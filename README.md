@@ -16,6 +16,8 @@ There are no words beyond this point. Silence is our only option.
 
 ---
 
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Pilvinen&count_private=true&hide=stars&show_icons=true&theme=dark)
 
 [![wakatime](https://wakatime.com/badge/user/f255368e-4112-40f9-902f-ac79d0ba873d.svg)](https://wakatime.com/@f255368e-4112-40f9-902f-ac79d0ba873d)
